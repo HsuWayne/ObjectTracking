@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ObjectTracking/static/css/main.e6c13ad2.css",
+    "main.js": "/ObjectTracking/static/js/main.3f389e5c.js",
+    "static/js/787.445560a8.chunk.js": "/ObjectTracking/static/js/787.445560a8.chunk.js",
+    "index.html": "/ObjectTracking/index.html",
+    "main.e6c13ad2.css.map": "/ObjectTracking/static/css/main.e6c13ad2.css.map",
+    "main.3f389e5c.js.map": "/ObjectTracking/static/js/main.3f389e5c.js.map",
+    "787.445560a8.chunk.js.map": "/ObjectTracking/static/js/787.445560a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3f389e5c.js"
+  ]
+}
