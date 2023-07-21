@@ -2,7 +2,7 @@
   "name": "amb_cloud",
   "version": "0.1.0",
   "private": true,
-  "homepage": "./",
+  "homepage": "https://hsuwayne.github.io/ObjectTracking/",
   "dependencies": {
     "@ffmpeg/core": "^0.11.0",
     "@ffmpeg/ffmpeg": "^0.11.6",
